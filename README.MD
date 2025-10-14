@@ -15,9 +15,8 @@ Barangay offices often face challenges such as slow document processing, lack of
 ## 🚀 Key Features
 
 ### 📑 Streamlined Document Management
-- Digitized processing and tracking of requests such as certificates and clearances  
+- Digitized processing and tracking of requests such as certificates. 
 - Automated issuance and verification of barangay documents  
-- Secure storage of official records for easy retrieval
 
 ### ⏱️ Real-Time Updates
 - Users can monitor the **real-time status** of their document requests  
