@@ -37,4 +37,6 @@ Barangay offices often face challenges such as slow document processing, lack of
 
 
 
+![Finding Client Of the Systsem](./assets/images/image1.jpg)
+
 
